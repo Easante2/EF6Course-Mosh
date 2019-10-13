@@ -1,2 +1,2 @@
 # EF6Course-Mosh
-Entity Framework online course exercises. Course author: Mosh Hamedani
+Entity Framework online course exercise. Course author: Mosh Hamedani
